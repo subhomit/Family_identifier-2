@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(14, 201, 14);
+    color: rgb(3, 136, 136);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.features, #object, #accuracy{
+    color: rgb(75, 16, 131);
+}
+#camera{
+    border: 2px dashed rgb(35, 8, 8);
+    width: 350px;
+    height: 300px;
+}
